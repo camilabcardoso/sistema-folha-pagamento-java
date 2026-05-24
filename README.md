@@ -60,4 +60,4 @@ Os dados são armazenados utilizando ArrayList e o sistema utiliza conceitos de 
 
 ## Autores
 
-Camila Braga Cardoso, Juliana Vitória dos Santos Pedroso, Leandro Alves Oliveira, Richard Marques Kikawa.
+Camila Braga Cardoso, Juliana Vitória dos Santos Pedroso, Leandro Alves Oliveira, Richard Marques Kikawa e Vinicius Costa Moraes.
